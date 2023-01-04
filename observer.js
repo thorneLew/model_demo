@@ -1,3 +1,4 @@
+// 观察者模式｜发布订阅
 function ObserverFactory() {
   let _message = {};
 
